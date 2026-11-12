@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Cinderline",
+      "hasCanvas": true,
+      "bodyTextLen": 240,
+      "bodyTextHash": "131b4a76f88cce95b4925bc755bf6d21e7f9ba414d4cdbb3f7a7f07bfda70b8f",
+      "bodyTextPrefix": "WRONG WAY ASH MERIDIAN · 3 LAPS CINDERLINE Dusk drops into neon ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Cinderline",
+      "hasCanvas": true,
+      "bodyTextLen": 240,
+      "bodyTextHash": "131b4a76f88cce95b4925bc755bf6d21e7f9ba414d4cdbb3f7a7f07bfda70b8f",
+      "bodyTextPrefix": "WRONG WAY ASH MERIDIAN · 3 LAPS CINDERLINE Dusk drops into neon ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [
+    "BRAND WARNING: this looks like a game/canvas app but /workspace/public/og.jpg is missing. Games and visually rich apps must ship a custom 1200x630 share card built from the app's own art — the default og.grok.me placeholder card is not acceptable for them. You are not done: open /workspace/.grok/skills/og/SKILL.md and finish the brand-asset pass."
+  ],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
